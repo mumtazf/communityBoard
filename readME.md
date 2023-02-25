@@ -29,7 +29,7 @@ Here's a walkthrough of implemented required features:
 <img src='https://github.com/mumtazf/communityBoard/blob/main/communityBoard/src/assets/images/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  
-[ScreenToGif](https://www.screentogif.com/) for Windows
+Chrome Screen Recorder
 
 ## Notes
 
